@@ -1,6 +1,4 @@
 # weather-telegram-bot
-Preview bot https://t.me/CybernoobBot
-
 In the config.py change the api to your own, 
 you can get it here https://openweathermap.org/api
 
